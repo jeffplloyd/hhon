@@ -1,0 +1,11 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text-roboto-slab {
+    font-family: 'Roboto Slab', serif;
+}
+
+.min-width-32px {
+    min-width: 32px;
+}
